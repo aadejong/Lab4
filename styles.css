@@ -1,0 +1,39 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+html, body, #map {
+    height: 100%;
+    width: 100vw;
+}
+
+/* I spent too much time on this... */ 
+.btn1 {
+	position: absolute;
+	top: 10px;
+  	left: 55px;
+	z-index: 1000;
+    height: 40px;
+    width: 200px;
+    text-decoration: none;
+    text-align: center;
+    color: grey; 
+    line-height: 26px;
+    padding-top: 6px;
+}
+
+.btn2 {
+	position: absolute;
+	top: 10px;
+  	left: 260px;
+	z-index: 1000;
+    height: 40px;
+    width: 200px;
+    text-decoration: none;
+    text-align: center;
+    color: grey; 
+    line-height: 26px;
+    padding-top: 6px;
+   	
+}
+
